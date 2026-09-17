@@ -1,0 +1,1 @@
+Encountered error in step execution: fallback failed: stream error: UNAVAILABLE (code 503): No capacity available for model gemini-2.5-flash on the server: Could not successfully apply any edits. Please review the file and try smaller edits that you are more confident about.: chunk 0: target content not found in file
