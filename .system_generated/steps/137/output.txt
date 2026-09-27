@@ -1,0 +1,14 @@
+The following changes were made by the replace_file_content tool to: C:\Users\gentl\.gemini\antigravity\brain\76ac267d-6234-40b8-94af-70000458ea9e\styles.css. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -12,7 +12,7 @@
+ * { margin:0; padding:0; box-sizing:border-box; }
+ body { 
+   font-family: 'Inter', sans-serif; 
+-  background-image: url('.backgorund_img_website');
++  background-image: url('background_img_website.png');
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.
