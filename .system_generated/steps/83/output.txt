@@ -1,0 +1,16 @@
+{"name":".git", "isDir":true}
+{"name":".system_generated", "isDir":true}
+{"name":".user_uploaded", "isDir":true}
+{"name":"Allah Reminder App", "isDir":true}
+{"name":"Paea app", "isDir":true}
+{"name":"gentleman_developer_logo_png.png", "sizeBytes":"321622"}
+{"name":"implementation_plan.md", "sizeBytes":"4023"}
+{"name":"implementation_plan.md.metadata.json", "sizeBytes":"168"}
+{"name":"index.html", "sizeBytes":"3621"}
+{"name":"index.html.metadata.json", "sizeBytes":"167"}
+{"name":"script.js", "sizeBytes":"1242"}
+{"name":"script.js.metadata.json", "sizeBytes":"109"}
+{"name":"styles.css", "sizeBytes":"3157"}
+{"name":"styles.css.metadata.json", "sizeBytes":"129"}
+
+Summary: This directory contains 5 subdirectories and 9 files.

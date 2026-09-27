@@ -1,0 +1,4 @@
+{"name":"Pasea App Logo.png", "sizeBytes":"60963"}
+{"name":"Phone", "isDir":true}
+
+Summary: This directory contains 1 subdirectories and 1 files.

@@ -1,0 +1,4 @@
+{"name":"Allah Reminder App Logo.png", "sizeBytes":"38110"}
+{"name":"Phone SS", "isDir":true}
+
+Summary: This directory contains 1 subdirectories and 1 files.

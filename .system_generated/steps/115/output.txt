@@ -1,0 +1,13 @@
+The following changes were made by the replace_file_content tool to: C:\Users\gentl\.gemini\antigravity\brain\76ac267d-6234-40b8-94af-70000458ea9e\index.html. If relevant, proactively run terminal commands to execute this code for the USER. Don't ask for permission.
+[diff_block_start]
+@@ -62,6 +62,7 @@
+         <a class="play-button button" href="https://play.google.com/store/apps/details?id=com.thegentleman.pasea" target="_blank" rel="noopener">
+           <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" class="play-badge" />
+         </a>
++        <a href="privacy-pasea.html" class="privacy-link" target="_blank">Privacy Policy</a>
+       </div>
+     </section>
+   </main>
+[diff_block_end]
+
+Please note that the above snippet only shows the MODIFIED lines from the last change. It shows up to 3 lines of unchanged lines before and after the modified lines. The actual file contents may have many more lines not shown.
